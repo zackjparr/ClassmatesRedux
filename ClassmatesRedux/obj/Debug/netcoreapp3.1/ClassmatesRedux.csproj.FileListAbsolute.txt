@@ -1,0 +1,14 @@
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\bin\Debug\netcoreapp3.1\ClassmatesRedux.exe
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\bin\Debug\netcoreapp3.1\ClassmatesRedux.deps.json
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\bin\Debug\netcoreapp3.1\ClassmatesRedux.runtimeconfig.json
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\bin\Debug\netcoreapp3.1\ClassmatesRedux.runtimeconfig.dev.json
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\bin\Debug\netcoreapp3.1\ClassmatesRedux.dll
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\bin\Debug\netcoreapp3.1\ClassmatesRedux.pdb
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.csproj.AssemblyReference.cache
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.AssemblyInfoInputs.cache
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.AssemblyInfo.cs
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.csproj.CoreCompileInputs.cache
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.dll
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.pdb
+C:\Users\ZParr\source\repos\ClassmatesRedux\ClassmatesRedux\obj\Debug\netcoreapp3.1\ClassmatesRedux.genruntimeconfig.cache
